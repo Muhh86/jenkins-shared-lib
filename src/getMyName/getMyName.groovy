@@ -1,7 +1,7 @@
 package getMyName
 
 class getMyName{
-    static void MyName() {
-        echo "Hello, Mohammed"
+    def MyName() {
+        return "Hello, Mohammed"
     }
 }
