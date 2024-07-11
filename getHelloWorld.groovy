@@ -1,4 +1,4 @@
 
-def sayHello(String x = 'World') {
+def call(String x = 'World') {
     echo "Hello, ${x}."
 }
