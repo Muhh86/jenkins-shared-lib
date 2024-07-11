@@ -1,3 +1,3 @@
-def getMyName(String name = 'Mohammed Alkheliwy') {
+def MyName(String name = 'Mohammed Alkheliwy') {
     echo "Hello, ${name}."
 }
