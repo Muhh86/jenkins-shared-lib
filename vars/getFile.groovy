@@ -1,3 +1,3 @@
 def getMyName() {
-    getMyName.getMyName.MyName(name)
+    getMyName.getMyName.MyName()
 }
